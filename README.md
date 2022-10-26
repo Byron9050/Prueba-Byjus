@@ -1,1 +1,1 @@
-# Prueba-Byjus
+# clase10C
